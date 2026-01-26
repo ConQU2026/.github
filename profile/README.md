@@ -1,4 +1,4 @@
-# 重庆大学ConQU战队2026赛季代码仓库
+# This is 重庆大学ConQU战队
 
 <table>
   <tr>

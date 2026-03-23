@@ -1,4 +1,4 @@
-# This is 重庆大学ConQU战队
+# 重庆大学ConQU战队
 
 <table>
   <tr>
